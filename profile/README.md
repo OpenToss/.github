@@ -3,4 +3,4 @@
 
 > "Proof that Toss can be migrated to Declarative UI"
 
-OpenToss is Toss Design System Clone Project
+OpenToss is Toss Design System Clone Project.
